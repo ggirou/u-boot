@@ -41,6 +41,7 @@ dtb-$(CONFIG_KIRKWOOD) += \
 	kirkwood-d2net.dtb \
 	kirkwood-db-88f6281.dtb \
 	kirkwood-db-88f6281-spi.dtb \
+	kirkwood-dns320.dtb \
 	kirkwood-dns325.dtb \
 	kirkwood-dockstar.dtb \
 	kirkwood-dreamplug.dtb \
