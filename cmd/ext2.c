@@ -42,7 +42,7 @@ U_BOOT_CMD(
 )
 
 U_BOOT_CMD(
-	ext2load,	6,	0,	do_ext2load,
+	ext2load,	7,	0,	do_ext2load,
 	"load binary file from a Ext2 filesystem",
 	"<interface> [<dev[:part]> [addr [filename [bytes [pos]]]]]\n"
 	"    - load binary file 'filename' from 'dev' on 'interface'\n"
